@@ -2,12 +2,12 @@
 flutter application which finds value of BITCOIN in different currencies.
 
 ## Features Used
-Drop Down Button
-Navigation
-AssetImage
-Icon
-Lists
-Https
+Drop Down Button<br>
+Navigation<br>
+AssetImage<br>
+Icon<br>
+Lists<br>
+Https<br>
 
 <br>
 <br>
