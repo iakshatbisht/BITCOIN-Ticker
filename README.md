@@ -2,5 +2,7 @@
 flutter application which finds value of BITCOIN in different currencies.
 
 
-
-<img src="screenshots/img1.jpg">
+<p align="center">
+<img src="screenshots/img1.jpg" height = 400 width= 200>
+<img src="screenshots/img2.jpg" height = 400 width= 200>
+</p>
